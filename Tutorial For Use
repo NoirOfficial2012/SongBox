@@ -1,0 +1,107 @@
+📖 SongBox Tutorial - Get Started in 5 Minutes
+What You'll Learn
+✅ Play songs
+
+✅ Add your own music
+
+✅ Create playlists
+
+✅ Use favorites & search
+
+Step 1: Play a Song
+Just click any song card → music starts playing instantly
+
+https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Click+Any+Song+Card
+
+Player controls (appears at bottom):
+
+⏸️ Pause | ⏮️ Previous | ⏭️ Next
+
+Click progress bar → jump to any part
+
+Drag volume slider → adjust sound
+
+Step 2: Add Your Own Song
+2.1 Get an audio link (Catbox - free)
+bash
+1. Go to https://catbox.moe
+2. Click "Browse" → select your MP3 file
+3. Click "Upload"
+4. Copy the link (looks like: https://files.catbox.moe/xxxxx.mp3)
+2.2 Get a cover image
+bash
+1. Google Image search your song
+2. Right-click any image → "Copy image address"
+2.3 Add to SongBox
+bash
+1. Click green "+ Add Song" button (bottom-right)
+2. Fill in:
+   - Title: "My Song"
+   - Artist: "My Name"
+   - Catbox link: [paste from step 2.1]
+   - Image URL: [paste from step 2.2]
+3. Click "Add Song"
+✅ Done! Your song appears at the top of the list
+
+Step 3: Create a Playlist
+bash
+1. Look at left sidebar → click "+ New Playlist"
+2. Type a name: "Chill Vibes" (or anything)
+3. Press Enter
+Add songs to your playlist
+bash
+1. Hover over any song
+2. Click the "+" button that appears
+3. Select your playlist name
+4. ✅ Song added!
+View your playlist
+bash
+Click the playlist name in sidebar → see all songs inside
+Remove from playlist
+bash
+While viewing playlist → click red trash icon on any song
+Rename or delete playlist
+bash
+Open the playlist → use "Rename" or "Delete" buttons at top
+Step 4: Use Favorites
+bash
+Click the ❤️ heart on any song → turns red
+View favorites: Click "Favorites" in sidebar
+
+Remove favorites: Click red heart again
+
+Step 5: Search Songs
+bash
+Type in search bar → results filter instantly
+Example: Type "ordinary" → shows only that song
+
+Clear search: Click "✕" button in search bar
+
+Step 6: Dark/Light Mode
+bash
+Click 🌙 button (top-right) → switches to light mode
+Click ☀️ button → switches back to dark
+Quick Reference Card
+What	How
+Play song	Click song card
+Add song	Green "+ Add Song" button
+Create playlist	"+ New Playlist" in sidebar
+Add to playlist	Hover song → click "+"
+Favorite	Click heart icon
+Search	Type in search bar
+Theme	Click moon/sun button
+Common Problems & Fixes
+❌ Song won't play?
+Fix: Make sure your Catbox link ends with .mp3
+
+❌ Image not showing?
+Fix: Right-click image → "Copy image address" (not page link)
+
+❌ Can't find my playlist?
+Fix: Look in left sidebar under "Playlists" section
+
+❌ Songs disappeared after refresh?
+
+Happy listening! 🎵
+Fix: They shouldn't! Check if you cleared browser data
+
