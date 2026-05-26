@@ -43,3 +43,5 @@ Hamburger menu for sidebar
 Touch-friendly buttons
 
 Fully responsive layout
+
+(Ai was only Used to refine all the text in this github page it was not used to write any code)
