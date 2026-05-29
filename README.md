@@ -51,3 +51,7 @@ Use SongBox On Your Phone
 There is a menu that you can use on your phone
 
 The buttons are easy to touch and the layout works well on small screens
+
+Upd- If For some reason chrome flags this site for you use any other web browser like edge.
+
+Made with Love :>
