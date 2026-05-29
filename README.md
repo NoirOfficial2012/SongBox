@@ -1,47 +1,53 @@
-🎵 SongBox - Simple Music Player
-What it does
-SongBox is a Spotify-like music player that runs in your browser. Here's exactly what it does:
+SongBox. A Really Simple Music Player
+
+What SongBox does
+
+SongBox is like Spotify. It plays music right in your browser. Here is what SongBox does:
 
 Core Features
-🎧 Play Music
-Click any song → it plays immediately
 
-Control playback: play/pause, next/previous, seek anywhere in the song
+Listen To Music
 
-Auto-plays next song when current ends
+You can click on any song and it will start playing away
 
-Adjust volume with slider
+You can control the music: play or pause go to the next or previous song and move to any part of the song
 
-📁 Add Your Own Songs
-Upload MP3 files to catbox.moe (free)
+When one song ends SongBox will automatically play the next song
 
-Paste the link + cover image URL → song added instantly
+You can make the music louder or softer with a slider
 
-Your songs save in your browser (don't disappear on refresh)
+Add Your Own Music
 
-📋 Create Playlists
-Make unlimited playlists ("Chill", "Workout", etc.)
+You can upload your own music files to catbox.moe for free
 
-Add any song to any playlist with one click
+Just copy the link and add a picture of the album cover then paste them into SongBox and the song will be added right away
 
-Rename or delete playlists anytime
+Your music will be saved in your browser so you will not lose it when you refresh the page
 
-❤️ Favorites
-Heart any song → saves to Favorites section
+Make Your Own Playlists
 
-One click to add/remove
+You can make as many playlists as you want like "Chill" or "Workout"
 
-🔍 Search
-Type song name or artist → filters results in real-time
+You can add any song to any playlist, with just one click
 
-🌙 Dark/Light Mode
-Toggle between themes with one button
+You can change the name of a playlist or delete it at any time
 
-📱 Works on Phone
-Hamburger menu for sidebar
+Favorite Songs
 
-Touch-friendly buttons
+If you like a song you can mark it as a favorite and it will be saved in the Favorites section
 
-Fully responsive layout
+It only takes one click to add or remove a song from your favorites
 
-(Ai was only Used to refine all the text in this github page it was not used to write any code)
+Find A Song
+
+You can type in the name of a song or the artist and SongBox will show you the results right away
+
+Change The Look
+
+You can switch between an light theme with just one button
+
+Use SongBox On Your Phone
+
+There is a menu that you can use on your phone
+
+The buttons are easy to touch and the layout works well on small screens
